@@ -1,0 +1,31 @@
+{
+  "name": "node-msi",
+  "version": "1.0.0",
+  "description": "Fetches and starts the latest Node installer for Windows.",
+  "main": "index.js",
+  "keywords": [
+    "node",
+    "install",
+    "installer",
+    "windows",
+    "update",
+    "msi"
+  ],
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
+  "license": "WTFPL",
+  "dependencies": {
+    "node-latest": "^1.0.0",
+    "request": "^2.72.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkTiedemann/node-msi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MarkTiedemann/node-msi/issues"
+  },
+  "homepage": "https://github.com/MarkTiedemann/node-msi"
+}
