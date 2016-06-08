@@ -28,7 +28,7 @@ fetch()
 
 **\> fetches the specified Node installer from https://nodejs.org/dist/**
 
-- **version** `{String}`: the installer version to be fetched, e.g. `v6.0.0`; *default*: the latest Node version
+- **version** `{String}`: the installer version to be fetched, e.g. `6.0.0`; *default*: the latest Node version
 - **bits** `{Number}`: `32` or `64`; *default*: `64`
 - **dir** `{String}`: the directory where the installer will be downloaded to; *default*: `C:/Users/<User>/Downloads`
 - **returns** `{Promise}`: resolves with the `path` of the downloaded installer; rejects if an `Error` occurs
