@@ -17,7 +17,7 @@
   "author": "Mark Tiedemann <www.marktiedemann@gmail.com>",
   "license": "WTFPL",
   "dependencies": {
-    "node-latest": "^2.0.0"
+    "node-latest": "^3.1.0"
   },
   "repository": {
     "type": "git",
